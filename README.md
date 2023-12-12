@@ -1,4 +1,4 @@
-####Uptimerobot
+**Uptimerobot**
 
 **Deploy a Kubernetes cluster on Google Cloud using the gcloud CLI**
 
@@ -65,7 +65,7 @@ Version 1.1.0
 ```
 ![](https://github.com/cipgen/mod5_task2/blob/main/img/mon_01.png)
 
-####Task 2
+**Task 2**
 
 
 Build a container with a new version
